@@ -47,7 +47,7 @@
         <fastJson.version>1.2.56</fastJson.version>
         <swagger.version>2.6.1</swagger.version>
         <swagger-bootstrap-ui.version>1.9.4</swagger-bootstrap-ui.version>
-        <jackson-databind.version>2.9.9</jackson-databind.version>
+        <jackson-databind.version>2.9.10.7</jackson-databind.version>
 
         <!--common-->
         <common-util.version>1.0.0</common-util.version>
